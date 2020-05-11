@@ -1,0 +1,22 @@
+body{
+    background-image: url(https://images.unsplash.com/photo-1463428537233-c84b754b2c84?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1868&q=80);
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+#face{
+    width: 20rem;
+    height:20rem;
+    
+}
+
+.jumbotron{
+    background-color: rgb(149, 151, 21);
+    color: white;
+    
+}
+
+.second{
+    background-color: rgb(250, 137, 156);
+}
+
+
